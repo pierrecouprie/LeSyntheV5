@@ -23,5 +23,5 @@ This software has been designed and developed by [Pierre Couprie](http://www.pie
 
 Le Synthé V5 is copyright (c) 2011 Pierre Couprie.
 
-ml-lib is distributed under the Creative Commons Public License CC BY-NC version 4. A copy of this is available in the accompanying [LICENSE](LICENSE) file.
+ml-lib is distributed under the Creative Commons Public License CC BY-NC version 4. A copy of this is available in the accompanying LICENSE file.
 
