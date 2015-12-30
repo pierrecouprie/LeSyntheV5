@@ -1,0 +1,3470 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "memory">
+	<slot number = "1">
+		<pattr name = "matrixSettings" value = "0 0 1 2 1 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "50" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "0" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "500" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "response" value = "0" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "0" />
+			<pattr name = "decay" value = "0" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "0" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "18" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "matrixSettings" value = "0 0 1 2 1 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "151." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "50" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "0" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "500" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "response" value = "0" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "0" />
+			<pattr name = "decay" value = "0" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "0" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "18" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "matrixSettings" value = "0 0 1 2 1 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "151." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "50" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "0" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "500" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "response" value = "0" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "0" />
+			<pattr name = "decay" value = "0" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "0" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "18" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<pattr name = "matrixSettings" value = "0 11 1 2 11 1 3 0 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "151." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "50" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "1500" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "response" value = "0" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "41" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "18" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "5">
+		<pattr name = "matrixSettings" value = "0 11 1 2 13 1 3 0 1 6 11 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "151." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "571" />
+			<pattr name = "feedback" value = "49" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "1500" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "response" value = "0" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "41" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "18" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "6">
+		<pattr name = "matrixSettings" value = "0 9 1 0 11 1 2 13 1 3 0 1 6 11 1 7 1 1 13 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "151." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "63" />
+			<pattr name = "time" value = "571" />
+			<pattr name = "feedback" value = "49" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "1500" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "30" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "5200." />
+			<pattr name = "response" value = "78" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "41" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "7">
+		<pattr name = "matrixSettings" value = "0 9 1 0 11 1 2 13 1 3 0 1 3 12 1 4 2 1 5 4 1 6 11 1 7 1 1 13 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "151." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "63" />
+			<pattr name = "time" value = "571" />
+			<pattr name = "feedback" value = "49" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "1500" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "30" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "4800." />
+			<pattr name = "response" value = "78" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "41" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "8">
+		<pattr name = "matrixSettings" value = "0 9 1 0 11 1 2 13 1 3 0 1 3 12 1 4 2 1 5 4 1 6 11 1 7 1 1 8 15 1 9 16 1 13 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "200." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "63" />
+			<pattr name = "time" value = "571" />
+			<pattr name = "feedback" value = "49" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "9" />
+			<pattr name = "rangey" value = "9" />
+			<pattr name = "x" value = "34" />
+			<pattr name = "y" value = "30" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "1500" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "30" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "5400." />
+			<pattr name = "response" value = "78" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "41" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "400." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "9">
+		<pattr name = "matrixSettings" value = "0 9 1 0 11 1 2 13 1 3 0 1 3 12 1 4 2 1 5 4 1 6 11 1 7 1 1 13 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "151." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "63" />
+			<pattr name = "time" value = "571" />
+			<pattr name = "feedback" value = "49" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "1500" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "30" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "400." />
+			<pattr name = "response" value = "78" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "41" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "10">
+		<pattr name = "matrixSettings" value = "0 11 1 0 13 1 2 11 1 2 13 1 3 9 1 6 11 1 7 1 1 8 10 1 13 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "5." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "1500." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "3" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "1" />
+			<pattr name = "tempo" value = "100" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "2553.620361" />
+			<pattr name = "response" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "27" />
+			<pattr name = "decay" value = "47" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "0" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "6 16" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "11">
+		<pattr name = "matrixSettings" value = "0 11 1 2 13 1 3 0 1 6 11 1 7 1 1 8 5 1 9 5 1 13 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 52.136753 93.023254 0 100. 6.976744 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "10753.949219" />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "5" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "10." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "63" />
+			<pattr name = "time" value = "571" />
+			<pattr name = "feedback" value = "49" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "y" value = "0" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "1500" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "30" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "4600." />
+			<pattr name = "response" value = "0" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "41" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "9107.789062" />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "4" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "27 52" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "39 59" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "12">
+		<pattr name = "matrixSettings" value = "0 11 1 2 11 1 3 0 1 3 9 1 4 1 1 5 2 1 5 3 1 7 12 1 13 4 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "10600." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "5700." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "1999" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "2" />
+			<pattr name = "tempo" value = "1000" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "800" />
+			<pattr name = "max" value = "2000" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "2467.782471" />
+			<pattr name = "response" value = "88" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "13" />
+			<pattr name = "decay" value = "83" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "50." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "30" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "13">
+		<pattr name = "matrixSettings" value = "0 11 1 0 13 1 2 11 1 2 13 1 3 9 1 6 11 1 7 0 1 7 1 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "1999" />
+			<pattr name = "feedback" value = "73" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "5000" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "14200." />
+			<pattr name = "response" value = "73" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "99" />
+			<pattr name = "on" value = "12" />
+			<pattr name = "decay" value = "92" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "13400." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "14">
+		<pattr name = "matrixSettings" value = "0 11 1 2 12 1 3 0 1 4 2 1 4 3 1 5 9 1 7 4 1 7 5 1 9 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "41" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "65" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "385." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "77" />
+			<pattr name = "level2" value = "77" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "1" />
+			<pattr name = "clevel2" value = "1" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "5000." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "50" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "99" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "99" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "50" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "12200." />
+			<pattr name = "response" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "14" />
+			<pattr name = "on" value = "0" />
+			<pattr name = "decay" value = "66" />
+			<pattr name = "off" value = "49" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "0" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "14900." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "15">
+		<pattr name = "matrixSettings" value = "0 11 1 2 13 1 3 9 1 6 11 1 7 6 1 13 0 1 14 15 1 15 16 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "11" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "60" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "1" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "1" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "0." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "50." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "13" />
+			<pattr name = "y" value = "62" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "3000" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "17800." />
+			<pattr name = "response" value = "44" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "1" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "0" />
+			<pattr name = "decay" value = "70" />
+			<pattr name = "off" value = "90" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "1." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "16">
+		<pattr name = "matrixSettings" value = "0 13 1 2 13 1 3 0 1 3 1 1 3 2 1 3 3 1 3 12 1 4 3 1 4 6 1 5 4 1 5 5 1 6 9 1 7 11 1 12 10 1 13 4 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "7400." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "55" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "1" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "56" />
+			<pattr name = "y" value = "76" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "5000" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "3509.477783" />
+			<pattr name = "response" value = "91" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "0" />
+			<pattr name = "decay" value = "49" />
+			<pattr name = "off" value = "99" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "2000." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "55 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "17">
+		<pattr name = "matrixSettings" value = "0 9 1 0 11 1 0 13 1 2 9 1 2 11 1 2 13 1 3 4 1 3 5 1 3 12 1 4 1 1 5 2 1 6 11 1 7 11 1 8 10 1 9 10 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "1207.801147" />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "80." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "77" />
+			<pattr name = "time" value = "652" />
+			<pattr name = "feedback" value = "60" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "8000" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "100" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "3200." />
+			<pattr name = "response" value = "89" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "28" />
+			<pattr name = "on" value = "0" />
+			<pattr name = "decay" value = "61" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "400." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 3" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 8" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "18">
+		<pattr name = "matrixSettings" value = "0 11 1 2 11 1 2 12 1 3 9 1 4 0 1 5 2 1 7 6 1 9 14 1 11 0 1 13 5 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "62" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "0.000001" />
+			<pattr name = "phase" value = "49" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "10." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "49" />
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "50" />
+			<pattr name = "level" value = "0" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "0" />
+			<pattr name = "tempo" value = "100" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "10" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "3700." />
+			<pattr name = "response" value = "87" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "1" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "1" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "6" />
+			<pattr name = "on" value = "67" />
+			<pattr name = "decay" value = "68" />
+			<pattr name = "off" value = "75" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "1" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "68." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 13" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "60 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 50" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "19">
+		<pattr name = "matrixSettings" value = "0 0 1 0 1 1 0 2 1 0 3 1 0 4 1 0 5 1 0 9 1 2 9 1 2 13 1 3 0 1 3 1 1 3 2 1 3 3 1 3 4 1 3 5 1 6 11 1 7 11 1 7 13 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "1.8" />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "2.6" />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "245" />
+			<pattr name = "feedback" value = "61" />
+			<pattr name = "effect" value = "1" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "2" />
+			<pattr name = "tempo" value = "2000" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "2000" />
+			<pattr name = "max" value = "5000" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "550." />
+			<pattr name = "response" value = "87" />
+			<pattr name = "level" value = "88" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "on" value = "38" />
+			<pattr name = "decay" value = "0" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "1." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "20">
+		<pattr name = "matrixSettings" value = "0 11 1 0 13 1 2 12 1 2 13 1 3 3 1 3 9 1 4 3 1 5 9 1 6 12 1 7 11 1 9 5 1 13 0 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 12.711864 87.5 0 23.728813 35.416668 0 41.525425 22.916666 0 52.542374 58.333332 0 62.711864 33.333332 0 77.966103 83.333336 0 93.220337 68.75 0 100. 33.333332 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "16" />
+			<pattr name = "out1-pan" value = "28" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "82" />
+			<pattr name = "out2-pan" value = "81" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "288.263672" />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "5." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "0" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "99" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "2" />
+			<pattr name = "tempo" value = "500" />
+			<pattr name = "choice" value = "1" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "3000" />
+			<pattr name = "max" value = "7000" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "7200." />
+			<pattr name = "response" value = "81" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cresponse" value = "1" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "50" />
+			<pattr name = "on" value = "20" />
+			<pattr name = "decay" value = "24" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "5." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "96" />
+			<pattr name = "level2" value = "0" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 3" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 99" />
+			<pattr name = "filter-response" value = "60 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "21">
+		<pattr name = "matrixSettings" value = "0 13 1 2 9 1 2 11 1 3 9 1 4 1 1 4 2 1 4 3 1 4 4 1 4 5 1 5 10 1 6 9 1 7 12 1 13 14 1" />
+		<pattr name = "tableSettings" value = "100. 0. 100. 0. 0. 0 4.237288 77.083336 0 5.932203 16.666666 0 11.016949 45.833332 0 13.559322 18.75 0 18.644068 47.916668 0 21.186441 4.166667 0 28.813559 29.166666 0 33.898304 10.416667 0 37.288136 54.166668 0 38.983051 18.75 0 44.915253 41.666668 0 48.305084 25. 0 52.542374 4.166667 0 60.169491 25. 0 63.559322 12.5 0 72.033897 93.75 0 75.423729 39.583332 0 81.355934 79.166664 0 83.05085 10.416667 0 88.983047 66.666664 0 91.525421 20.833334 0 100. 37.5 0" />
+		<patcher name = "output">
+			<pattr name = "out1-filter" value = "50" />
+			<pattr name = "out1-level" value = "99" />
+			<pattr name = "out1-pan" value = "0" />
+			<pattr name = "out2-filter" value = "50" />
+			<pattr name = "out2-level" value = "99" />
+			<pattr name = "out2-pan" value = "99" />
+			<pattr name = "out1-cfilter" value = "0" />
+			<pattr name = "out1-clevel" value = "0" />
+			<pattr name = "out1-cpan" value = "0" />
+			<pattr name = "out2-cfilter" value = "0" />
+			<pattr name = "out2-clevel" value = "0" />
+			<pattr name = "out2-cpan" value = "0" />
+		</patcher>
+		<patcher name = "oscillator2">
+			<pattr name = "frequency" value = "200." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "oscillator3">
+			<pattr name = "frequency" value = "150." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "noisegenerator">
+			<pattr name = "color" value = "50" />
+			<pattr name = "level" value = "0" />
+		</patcher>
+		<patcher name = "ringmodulator">
+			<pattr name = "level" value = "79" />
+		</patcher>
+		<patcher name = "effect">
+			<pattr name = "mix" value = "99" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "time" value = "0" />
+			<pattr name = "feedback" value = "0" />
+			<pattr name = "effect" value = "0" />
+			<pattr name = "cmix" value = "0" />
+			<pattr name = "clevel" value = "0" />
+		</patcher>
+		<patcher name = "input">
+			<pattr name = "channel1" value = "0" />
+			<pattr name = "gate" value = "0" />
+			<pattr name = "channel2" value = "0" />
+		</patcher>
+		<patcher name = "stick">
+			<pattr name = "offsetx" value = "0" />
+			<pattr name = "offsety" value = "0" />
+			<pattr name = "rangex" value = "99" />
+			<pattr name = "rangey" value = "99" />
+			<pattr name = "x" value = "50" />
+			<pattr name = "y" value = "50" />
+		</patcher>
+		<patcher name = "controls">
+			<pattr name = "on" value = "1" />
+			<pattr name = "origin" value = "2" />
+			<pattr name = "tempo" value = "500" />
+			<pattr name = "choice" value = "0" />
+			<pattr name = "x" value = "0" />
+			<pattr name = "palindrome" value = "0" />
+			<pattr name = "min" value = "0" />
+			<pattr name = "max" value = "4000" />
+		</patcher>
+		<patcher name = "filteroscillator">
+			<pattr name = "frequency" value = "6800.009277" />
+			<pattr name = "response" value = "87" />
+			<pattr name = "level" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "hlpass" value = "0" />
+			<pattr name = "cfrequency" value = "1" />
+			<pattr name = "cresponse" value = "0" />
+			<pattr name = "clevel" value = "0" />
+			<pattr name = "midi" value = "0" />
+		</patcher>
+		<patcher name = "enveloppeshaper">
+			<pattr name = "attack" value = "31" />
+			<pattr name = "on" value = "10" />
+			<pattr name = "decay" value = "26" />
+			<pattr name = "off" value = "0" />
+			<pattr name = "trapezoid" value = "99" />
+			<pattr name = "signal" value = "99" />
+			<pattr name = "trigger" value = "2" />
+			<pattr name = "cattack" value = "0" />
+			<pattr name = "con" value = "0" />
+			<pattr name = "cdecay" value = "0" />
+			<pattr name = "coff" value = "0" />
+			<pattr name = "ctrapezoid" value = "0" />
+			<pattr name = "csignal" value = "0" />
+		</patcher>
+		<patcher name = "oscillator1">
+			<pattr name = "frequency" value = "250." />
+			<pattr name = "phase" value = "50" />
+			<pattr name = "level1" value = "99" />
+			<pattr name = "level2" value = "99" />
+			<pattr name = "tune" value = "0." />
+			<pattr name = "midi" value = "0" />
+			<pattr name = "fm" value = "0" />
+			<pattr name = "cfrequency" value = "0" />
+			<pattr name = "cphase" value = "0" />
+			<pattr name = "clevel1" value = "0" />
+			<pattr name = "clevel2" value = "0" />
+		</patcher>
+		<patcher name = "keyboard">
+			<pattr name = "keyboard" value = "-15" />
+			<pattr name = "glide" value = "0" />
+			<pattr name = "octave" value = "7" />
+		</patcher>
+		<patcher name = "incControl">
+			<pattr name = "osc1-frequency" value = "0 99" />
+			<pattr name = "osc1-shape" value = "0 99" />
+			<pattr name = "osc1-level1" value = "0 99" />
+			<pattr name = "osc1-level2" value = "0 99" />
+			<pattr name = "osc2-frequency" value = "0 99" />
+			<pattr name = "osc2-shape" value = "0 99" />
+			<pattr name = "osc2-level1" value = "0 99" />
+			<pattr name = "osc2-level2" value = "0 99" />
+			<pattr name = "osc3-frequency" value = "0 99" />
+			<pattr name = "osc3-shape" value = "0 99" />
+			<pattr name = "osc3-level1" value = "0 99" />
+			<pattr name = "osc3-level2" value = "0 99" />
+			<pattr name = "filter-frequency" value = "0 44" />
+			<pattr name = "filter-response" value = "0 99" />
+			<pattr name = "filter-level" value = "0 99" />
+			<pattr name = "output1-filter" value = "0 99" />
+			<pattr name = "output1-level" value = "0 99" />
+			<pattr name = "output1-pan" value = "0 99" />
+			<pattr name = "enveloppe-attack" value = "0 99" />
+			<pattr name = "enveloppe-on" value = "0 99" />
+			<pattr name = "enveloppe-decay" value = "0 99" />
+			<pattr name = "enveloppe-off" value = "0 99" />
+			<pattr name = "enveloppe-trapezoid" value = "0 99" />
+			<pattr name = "enveloppe-signal" value = "0 99" />
+			<pattr name = "output2-filter" value = "0 99" />
+			<pattr name = "output2-level" value = "0 99" />
+			<pattr name = "output2-pan" value = "0 99" />
+			<pattr name = "oscconf1-level1" value = "0" />
+			<pattr name = "oscconf1-level2" value = "1" />
+			<pattr name = "oscconf2-level1" value = "2" />
+			<pattr name = "oscconf2-level2" value = "3" />
+			<pattr name = "oscconf3-level1" value = "2" />
+			<pattr name = "oscconf3-level2" value = "3" />
+			<pattr name = "effects-mix" value = "0 99" />
+			<pattr name = "effects-level" value = "0 99" />
+			<pattr name = "noiseconf-type" value = "0" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

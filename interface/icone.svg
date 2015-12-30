@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="512.0" height="512.0">
+
+	<metadata>
+		<rdf:RDF xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#" xmlns:dc = "http://purl.org/dc/elements/1.1/">
+			<rdf:Description rdf:about="http://likethought.com/opacity/">
+				<dc:title>New Image</dc:title>
+				<dc:creator>Pierre Couprie</dc:creator>
+				<dc:rights>Copyright 2009 Pierre Couprie</dc:rights>
+				<dc:description></dc:description>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:language>fr</dc:language>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<g>
+		<title>fond</title>
+		<rect x="41.0" y="39.5" width="428.0" height="429.0" rx="60.0" ry="60.0" fill="rgb(79.52%, 79.53%, 79.52%)" stroke="none" />
+		<rect x="41.0" y="39.5" width="428.0" height="429.0" rx="60.0" ry="60.0" stroke="rgb(79.52%, 79.53%, 79.52%)" stroke-width="20.0" stroke-linecap="square" stroke-linejoin="miter" fill="none" />
+	</g>
+
+	<g>
+		<title>Shadow Effect</title>
+	</g>
+
+	<g>
+		<title>bande</title>
+		<rect x="116.5" y="30.5" width="211.5" height="448.0" fill="rgb(50.66%, 50.67%, 50.66%)" stroke="none" />
+	</g>
+
+	<g>
+		<title>Plastic Effect</title>
+	</g>
+
+	<g>
+		<title>Layer 1</title>
+		<g>
+			<title>texte</title>
+			<text x="256.0" text-anchor="middle" y="539.0">
+				<tspan fill="rgb(99.99%, 100%, 99.99%)" font-family="MyriadPro-Semibold" font-size="500.0">5</tspan>
+			</text>
+		</g>
+
+		<g>
+			<title>Inner Shadow Effect</title>
+		</g>
+
+	</g>
+
+</svg>
